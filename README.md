@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Repo](https://github.com/jpmarinh92/portfolio "Portfolio)
+- [Repo](https://github.com/jpmarinh92/portfolio "Portfolio")
 
 - [Live View](https://jpmarinh92.github.io/portfolio "Live View")
 
