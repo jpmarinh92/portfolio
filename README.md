@@ -1,6 +1,6 @@
 <h1 align="center"> Portfolio </h1>
 
-<p align="center"> Hello, my name is Juan Pablo Marin Higuita and this is my full stack webdeveloper portoflio </p>
+<p align="center"> Hello, my name is Juan Pablo Marin Higuita and this is my Full Stack Web Developer portoflio </p>
 
 ## Links
 
